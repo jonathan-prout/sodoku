@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+Simple hobby sudoku solver
+for educational use only
 """
 
 cells = {}
